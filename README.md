@@ -9,5 +9,5 @@
 3️⃣需要另外定义成员函数  
 ## *Python类用CPP类改写*
 😇1️⃣内部函数调用<https://blog.csdn.net/qq_39321234/article/details/127638676?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-2-127638676-blog-109403641.pc_relevant_landingrelevant&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-2-127638676-blog-109403641.pc_relevant_landingrelevant&utm_relevant_index=5>  
-😇2️⃣string无法定义  #include<csting>(deve)
+😇2️⃣string无法定义  #include<csting>(deve)  
 😇3️⃣include<iostream>无法打开源文件 环境配置错误，用dev的编程包  
