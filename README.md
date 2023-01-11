@@ -10,7 +10,7 @@
 ## *Python类用CPP类改写*
 😇1️⃣内部函数调用<https://blog.csdn.net/qq_39321234/article/details/127638676?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-2-127638676-blog-109403641.pc_relevant_landingrelevant&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-2-127638676-blog-109403641.pc_relevant_landingrelevant&utm_relevant_index=5>  
 😫2️⃣string无法定义  
-😫3️⃣include<iostream>无法打开源文件(需要下载mingw-w64 GCC)
-     具体操作<https://code.visualstudio.com/docs/cpp/config-mingw>
+😫3️⃣include<iostream>无法打开源文件(需要下载mingw-w64 GCC)  
+     具体操作<https://code.visualstudio.com/docs/cpp/config-mingw>  
      ❗gcc.exe无法找到，不知道是路径哪错了
     
